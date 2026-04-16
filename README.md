@@ -14,7 +14,7 @@ en una empresa de telecomunicaciones.
 
 ## Fases del proyecto
 - [x] Configuración del proyecto
-- [ ] EDA + Estadística descriptiva
+- [x] EDA + Estadística descriptiva
 - [ ] Limpieza y Feature Engineering
 - [ ] Modelado (Regresión Logística / Random Forest)
 - [ ] Evaluación y conclusiones
